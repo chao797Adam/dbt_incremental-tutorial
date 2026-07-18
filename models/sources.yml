@@ -1,0 +1,18 @@
+version: 2
+
+sources:
+  - name: raw_data
+    description: Raw seed data for incremental model examples
+    schema: bronze
+    tables:
+      - name: events
+        description: Event data with event_time configuration for microbatch
+        config:
+          event_time: event_timestamp
+        columns:
+          - name: event_id
+            description: Unique event identifier
+          - name: event_timestamp
+            description: Event timestamp used for microbatch filtering
+          - name: event_date
+            description: Event date partition

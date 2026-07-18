@@ -1,0 +1,5 @@
+product_id,product_name,category,price,stock_quantity,is_active,last_updated
+PROD001,Wireless Headphones,Electronics,99.99,150,true,2026-01-20 08:00:00
+PROD002,USB-C Cable,Electronics,19.99,500,true,2026-01-19 10:00:00
+PROD003,Phone Case,Accessories,149.99,300,true,2026-01-18 12:00:00
+PROD004,Screen Protector,Accessories,79.99,200,true,2026-01-21 14:00:00

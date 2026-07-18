@@ -1,0 +1,11 @@
+customer_id,customer_name,email,phone,country,signup_date,updated_at
+USR001,John Smith,john@example.com,555-0001,USA,2025-01-01,2026-01-20 08:00:00
+USR002,Sarah Johnson,sarah@example.com,555-0002,USA,2025-01-05,2026-01-19 10:00:00
+USR003,Mike Chen,mike@example.com,555-0003,USA,2025-01-10,2026-01-18 14:00:00
+USR004,Emily Davis,emily@example.com,555-0004,UK,2025-01-15,2026-01-17 09:00:00
+USR005,James Wilson,james@example.com,555-0005,Canada,2025-01-20,2026-01-16 11:00:00
+USR006,Lisa Anderson,lisa@example.com,555-0006,USA,2025-02-01,2026-01-20 15:00:00
+USR007,David Brown,david@example.com,555-0007,USA,2025-02-10,2026-01-21 10:00:00
+USR008,NULL,NULL,NULL,NULL,2025-03-01,2026-01-15 08:00:00
+USR001,David Brown Name updated,david@example.com,555-0007,USA,2025-02-10,2026-01-23 10:00:00
+USR101,New name,david@example.com,555-0007,USA,2025-02-10,2026-01-23 10:00:00
